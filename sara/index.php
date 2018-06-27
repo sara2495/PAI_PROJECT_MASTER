@@ -39,7 +39,7 @@
         <a href="/sara/pages/logout.php">Wyloguj</a>
     <?php endif; ?>
 </div>
-<div class="container">
+<div class="container" id="Start">
     <div class="desc">
         <div id="text">
             <h2>ZaUEK...</h2>
@@ -95,7 +95,7 @@
         include_once 'calendar.php';
         ?>
     </div>
-    <div class="reserwation">
+    <div class="reserwation" id="Rezerwacje">
 
         <div class="row">
             <div class="col-75">
